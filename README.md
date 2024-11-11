@@ -1,7 +1,10 @@
 # VBA-challenge
 
-# The final version of VBA code is in code_final.bas.
+## VBA Code
+The final version of VBA code is in code.bas.
 
-# code_wordy_version.bas contains a successful first draft that produces the same output. Some modifications were made to it in order to produce the final version.
+## Screenshots
+Screenshots are stored in the home directory.
 
-# Screenshots are provided as .png.
+## Other Files
+Resources and deprecated code versions are stored in subdirectories. 
